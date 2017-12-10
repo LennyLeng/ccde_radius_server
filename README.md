@@ -1,2 +1,2 @@
 # ccde_radius_server
-这是CCDE公司radius协议与SMTP协议认证过程转换器，起作用将radius协议转换为SMTP邮件协议，完成CCDE公司员工可以通过CNPC邮箱进行认证集成的过程
+这是CCDE公司radius协议与SMTP协议认证过程转换器，其作用将radius协议转换为SMTP邮件协议，完成CCDE公司员工可以通过CNPC邮箱进行认证集成的过程
